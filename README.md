@@ -28,9 +28,16 @@ Welcome to my GitHub profile! I'm João Vitor Macedo, a Bachelor's student in **
 - **Service Presentation Website**  
   A responsive website developed to showcase English teaching services, applying front-end best practices, design structuring, and user-focused experience.
 
-- **Academic Projects**  
-  Participation in practical university projects where I apply front-end concepts to real-world scenarios.
+- **Academic Project – Hotel Maintenance Management System**  
+  A web-based academic project focused on the management of hotel maintenance requests.  
+  The system allows hotel staff to register, track, and resolve maintenance issues efficiently.  
+  Features include:
+  - 📝 Submission of maintenance requests by staff
+  - 📋 Visualization of open and completed tasks
+  - 🛠 Assignment of tasks to responsible personnel
+  - 📊 Status tracking for better internal organization
 
+> This project helped me apply front-end concepts to solve real-world problems, working collaboratively in an academic environment.
 > *More projects coming soon as I continue to learn and build!*
 
 ---
