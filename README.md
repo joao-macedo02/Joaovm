@@ -37,6 +37,6 @@ Welcome to my GitHub profile! I'm João Vitor Macedo, a Bachelor's student in **
 
 ## 📫 Let’s Connect
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/joaovitormacedo) or follow my work here on GitHub.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-macedo-a3ba71363) or follow my work here on GitHub.  
 I'm always open to new ideas, collaborations, and learning opportunities!
 
