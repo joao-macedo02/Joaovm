@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-Welcome to my GitHub profile! I'm João Vitor Macedo, a Bachelor's student in **Systems Analysis and Development** at **PUC Minas**, with expected graduation in **2027**. I'm passionate about technology and currently focused on building my skills in **front-end development**.
+Welcome to my GitHub profile! I'm João Vitor Macedo, a Bachelor's student in **Systems Analysis and Development** at **PUC Minas**, with expected graduation in **2027**. I'm passionate about technology and currently focused on building my skills in **front-end** and **back-end** development.
 
 ---
 
@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm João Vitor Macedo, a Bachelor's student in **
 - **JavaScript (ES6+)**  
 - Basic knowledge of **Git** and **GitHub**  
 - Familiar with design principles and user experience basics  
+- Currently studying **C#**
 
 ---
 
